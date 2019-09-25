@@ -1,5 +1,5 @@
 {
-    "name": "dusterio/lumen-passport",
+    "name": "williampaulo/lumen-passport",
     "type": "library",
     "description": "Making Laravel Passport work with Lumen",
     "keywords": ["php","lumen","laravel passport"],
